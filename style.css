@@ -33,10 +33,9 @@ img {
     float: left;
 
 }
-
 .jack {
-    position: relative;
-    top: -80vh;
-    left: 0;
+    position: fixed;
+    top: 40vh;
+    left: 9px;
 
 }
