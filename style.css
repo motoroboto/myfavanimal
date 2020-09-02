@@ -1,0 +1,42 @@
+body {
+    background-color: antiquewhite
+}
+
+h1 {
+    color: rgb(24, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(24, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: right;
+}
+
+p {
+    color: rgb(24, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: expanded;
+}
+div {
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+    float: left;
+
+}
+
+.jack {
+    position: relative;
+    top: -80vh;
+    left: 0;
+
+}
