@@ -34,8 +34,8 @@ img {
 
 }
 .jack {
-    position: fixed;
-    top: 40vh;
+    position: relative;
+    top: -30em;
     left: 9px;
 
 }
